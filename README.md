@@ -6,5 +6,5 @@
 ### Hi, there👋  I'm Luo Xubo (Jeremy)
 
 - :orange_book:  A student majoring in Computer Science
-- :hammer:  Working on deep learning and computer vision
+- :hammer:  Working on deep learning, computer vision and visual navigation
 
