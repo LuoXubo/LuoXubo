@@ -7,4 +7,5 @@
 
 - :orange_book:  A student majoring in Computer Science
 - :hammer:  Working on deep learning, computer vision and visual navigation
+- ⛔: Something wrong with my stats...
 
