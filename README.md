@@ -18,8 +18,6 @@ I focus on enabling robots to understand their environment through visual percep
 | **AI & CV** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) |
 
-### 📈 GitHub Activity
-
 <!-- 替换底部的 Activity 部分 -->
 ### 📈 GitHub Activity
 
