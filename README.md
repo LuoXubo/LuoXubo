@@ -20,4 +20,7 @@ I focus on enabling robots to understand their environment through visual percep
 
 ### 📈 GitHub Activity
 
-![Metrics](https://metrics.lecoq.io/LuoXubo?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year)
+<!-- 替换底部的 Activity 部分 -->
+### 📈 GitHub Activity
+
+[![LuoXubo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuoXubo&bg_color=ffffff&color=0969da&line=0969da&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
